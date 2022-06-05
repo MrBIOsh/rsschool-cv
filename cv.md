@@ -14,6 +14,7 @@
 ### About
 ------------------------------
 I'm a beginner Frontend-Developer. My goal is to become a first-class specialist in this field. I enjoy learning new technologies and try to put them into practice. Strive to be a successful developer.
+
 > "Тake a step and the road will appear by itself" - Steve Jobs.
 ### Skills
 ------------------------------
