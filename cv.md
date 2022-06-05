@@ -92,7 +92,7 @@ I'm a beginner Frontend-Developer. My goal is to become a first-class specialist
 
 ### Languages
 ------------------------------
-* Russian - fluent (C2)
+* Russian - Native
 * English - intermediate (B1)
 
 ### Hobbies
