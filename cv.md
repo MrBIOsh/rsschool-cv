@@ -1,6 +1,6 @@
 ![Photo](/Photo_CV.jpg)
-## Pavel Komysov
-### Frontend Developer
+# Pavel Komysov
+## Frontend Developer
 =============================
 #### E-mail: komysovpv@gmail.com
 #### Discord: Pavel Komysov (@MrBIOsh)
@@ -18,7 +18,8 @@ I'm a beginner Frontend-Developer. My goal is to become a first-class specialist
 * Java Core
 * BEM
 * Visual Studio Code
-### Examples code from [CodeWars][https://www.codewars.com/users/BIOsh/completed_solutions]:
+### Examples code from CodeWars 
+[CodeWars][https://www.codewars.com/users/BIOsh/completed_solutions]:
 1. Disemvowel Trolls
     - _Description:_
     Trolls are attacking your comment section!
@@ -34,6 +35,7 @@ I'm a beginner Frontend-Developer. My goal is to become a first-class specialist
     }
 }
     ```
+    
 2. Find the smallest integer in the array
     - _Description:_
     Given an array of integers your solution should find the smallest integer.
