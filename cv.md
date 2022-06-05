@@ -1,4 +1,4 @@
-![/Photo_CV.jpg]
+![Photo](/Photo_CV.jpg)
 ## Pavel Komysov
 ### Frontend Developer
 =============================
