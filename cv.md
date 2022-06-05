@@ -75,6 +75,14 @@ I'm a beginner Frontend-Developer. My goal is to become a first-class specialist
         }
     }
     ```
+### Education
+------------------------------
+* Far Eastern Federal University, Vladivostok
+    - Infocommunication technologies and communication systems
+    - Android Developer
+### Courses
+------------------------------
+* Web Developer on the [AnnBlok](https://annblok.ru/)
 ### Languages
 ------------------------------
 * Russian - fluent (C2)
