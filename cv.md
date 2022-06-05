@@ -80,6 +80,7 @@ I'm a beginner Frontend-Developer. My goal is to become a first-class specialist
 * Russian - fluent (C2)
 * English - intermediate (B1)
 ### Hobbies
+------------------------------
 * Chess
 * Voleyball
 * Electronics
