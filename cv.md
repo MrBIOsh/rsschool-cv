@@ -32,7 +32,7 @@ I'm a beginner Frontend-Developer. My goal is to become a first-class specialist
 
 ### Examples code from CodeWars 
 ------------------------------
-[CodeWars](https://www.codewars.com/users/BIOsh/completed_solutions):
+[CodeWars](https://www.codewars.com/users/BIOsh/completed_solutions)
 1. Disemvowel Trolls
     - _Description:_
     Trolls are attacking your comment section!
