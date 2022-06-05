@@ -33,7 +33,7 @@ I'm a beginner Frontend-Developer. My goal is to become a first-class specialist
 ### Examples code from CodeWars 
 ------------------------------
 [CodeWars](https://www.codewars.com/users/BIOsh/completed_solutions)
-*1. Disemvowel Trolls*
+1. **Disemvowel Trolls**
     - _Description:_
     Trolls are attacking your comment section!
     A common way to deal with this situation is to remove all of the vowels from the trolls' comments, neutralizing the threat.
@@ -49,7 +49,7 @@ I'm a beginner Frontend-Developer. My goal is to become a first-class specialist
 }
     ```
     
-*2. Find the smallest integer in the array*
+2. **Find the smallest integer in the array**
     - _Description:_
     Given an array of integers your solution should find the smallest integer.
 
