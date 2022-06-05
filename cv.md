@@ -82,5 +82,5 @@ I'm a beginner Frontend-Developer. My goal is to become a first-class specialist
 ### Hobbies
 ------------------------------
 * Chess
-* Voleyball
+* Volleyball
 * Electronics
