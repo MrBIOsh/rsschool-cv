@@ -5,10 +5,18 @@
 #### E-mail: komysovpv@gmail.com
 #### Discord: Pavel Komysov (@MrBIOsh)
 =============================
+### My Projects
+------------------------------
+- [Healthy food shop](https://mrbiosh.github.io/Module02-Shop/dist/)
+- [Online - GYM site](https://mrbiosh.github.io/Module01_Diplom/index.html)
+- [Burger shop](https://mrbiosh.github.io/Module01_Burger/index.html)
+- [Portfolio](https://mrbiosh.github.io/Module02-Diplom/dist/)
 ### About
+------------------------------
 I'm a beginner Frontend-Developer. My goal is to become a first-class specialist in this field. I enjoy learning new technologies and try to put them into practice. Strive to be a successful developer.
 > "Тake a step and the road will appear by itself" - Steve Jobs.
 ### Skills
+------------------------------
 * HTML
 * CSS
 * SASS/SCSS
@@ -19,6 +27,7 @@ I'm a beginner Frontend-Developer. My goal is to become a first-class specialist
 * BEM
 * Visual Studio Code
 ### Examples code from CodeWars 
+------------------------------
 [CodeWars](https://www.codewars.com/users/BIOsh/completed_solutions):
 1. Disemvowel Trolls
     - _Description:_
@@ -66,8 +75,11 @@ I'm a beginner Frontend-Developer. My goal is to become a first-class specialist
         }
     }
     ```
-### My Projects
-- [Healthy food shop](https://mrbiosh.github.io/Module02-Shop/dist/)
-- [Online - GYM site](https://mrbiosh.github.io/Module01_Diplom/index.html)
-- [Burger shop](https://mrbiosh.github.io/Module01_Burger/index.html)
-- [Portfolio](https://mrbiosh.github.io/Module02-Diplom/dist/)
+### Languages
+------------------------------
+* Russian - fluent (C2)
+* English - intermediate (B1)
+### Hobbies
+* Chess
+* Voleyball
+* Electronics
